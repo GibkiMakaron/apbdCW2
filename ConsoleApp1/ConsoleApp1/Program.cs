@@ -13,3 +13,8 @@ static double CalculateAverage(int[] values)
     Console.WriteLine("istnieje taka funkcja");
     return values.Average();
 }
+
+static double CalculateMax(double[] values)
+{
+    return values.Max();
+}
