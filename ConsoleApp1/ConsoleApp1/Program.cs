@@ -23,3 +23,4 @@ static double CalculateMin(double[] values)
 {
     return values.Min();
 }
+Console.WriteLine("cos tam cos tam cos tam");
