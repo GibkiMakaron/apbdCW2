@@ -7,3 +7,8 @@ Console.WriteLine("Sigma");
 Console.WriteLine("maly test");
 
 Console.WriteLine("main");
+
+static double CalculateAverage(int[] values)
+{
+    return values.Average();
+}
