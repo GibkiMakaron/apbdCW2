@@ -10,5 +10,6 @@ Console.WriteLine("main");
 
 static double CalculateAverage(int[] values)
 {
+    Console.WriteLine("istnieje taka funkcja");
     return values.Average();
 }
