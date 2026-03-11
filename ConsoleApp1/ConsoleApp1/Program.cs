@@ -25,3 +25,4 @@ static double CalculateMin(double[] values)
 }
 Console.WriteLine("po minie");
 Console.WriteLine("cos tam cos tam cos tam");
+Console.WriteLine("cos tam cos tam cos tam");
