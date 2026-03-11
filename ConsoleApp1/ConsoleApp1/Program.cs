@@ -4,5 +4,6 @@ Console.WriteLine("Hello, World!");
 Console.WriteLine("Creature feature");
 Console.WriteLine("Sigma");
 
+Console.WriteLine("maly test");
 
 Console.WriteLine("main");
