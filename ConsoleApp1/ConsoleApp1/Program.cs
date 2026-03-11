@@ -14,3 +14,7 @@ static double CalculateAverage(int[] values)
     return values.Average();
 }
 Console.WriteLine("etem tutaj");
+static double CalculateMax(double[] values)
+{
+    return values.Max();
+}
