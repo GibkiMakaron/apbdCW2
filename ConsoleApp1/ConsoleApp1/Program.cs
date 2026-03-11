@@ -27,4 +27,5 @@ Console.WriteLine("po minie");
 Console.WriteLine("cos tam cos tam cos tam");
 Console.WriteLine("cos tam cos tam cos tam");
 
-int main2 = 0;
+int featureConflict = 0;
+Console.WriteLine("wole ta nazwe");
