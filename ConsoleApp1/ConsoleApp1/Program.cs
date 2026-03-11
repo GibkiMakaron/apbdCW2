@@ -18,3 +18,6 @@ static double CalculateMax(double[] values)
 {
     return values.Max();
 }
+
+
+Console.WriteLine("po minie");
