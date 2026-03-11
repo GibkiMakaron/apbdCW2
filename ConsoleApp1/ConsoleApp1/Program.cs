@@ -19,5 +19,8 @@ static double CalculateMax(double[] values)
     return values.Max();
 }
 
-
+static double CalculateMin(double[] values)
+{
+    return values.Min();
+}
 Console.WriteLine("po minie");
